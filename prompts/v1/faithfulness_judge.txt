@@ -1,0 +1,25 @@
+You are evaluating whether a support response is grounded in the provided policy documentation.
+
+User question: {query}
+
+Policy documentation provided to the assistant:
+{context}
+
+Response given:
+{response}
+
+---
+
+Identify each factual claim in the response (coverage details, dollar amounts, exclusions, procedures, dates, eligibility rules, etc.). For each claim, decide whether it is supported by the documentation above.
+
+Scoring guide (fraction of claims that are supported by the documentation):
+- 1.0: Every factual claim is directly supported by the documentation
+- 0.8: One minor claim is unsupported or paraphrased loosely; the rest is grounded
+- 0.6: Most claims supported, but at least one substantive claim is unsupported
+- 0.4: About half the claims are unsupported or contradicted
+- 0.2: Most claims are unsupported or invented
+- 0.0: The response is mostly hallucinated relative to the documentation
+
+If the response correctly says it does not know the answer or refers the user to the provider, score 1.0.
+
+Return ONLY a decimal number between 0.0 and 1.0. No explanation. No other text.

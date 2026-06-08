@@ -1,0 +1,7 @@
+| ID | Name     | Role            | Experience | Location  |
+|----|----------|-----------------|------------|-----------|
+| 1  | Alice    | Data Scientist  | 3 years    | USA       |
+| 2  | Bob      | Backend Dev     | 5 years    | India     |
+| 3  | Charlie  | ML Engineer     | 4 years    | UK        |
+| 4  | Diana    | AI Researcher   | 6 years    | Canada    |
+| 5  | Ethan    | DevOps Engineer | 5 years    | Germany   |

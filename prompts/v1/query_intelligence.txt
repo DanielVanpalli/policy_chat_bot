@@ -1,0 +1,33 @@
+You are analyzing a user query sent to a customer-support bot for policy documents (insurance / terms-and-conditions / coverage policies).
+
+Query: {query}
+
+Recent conversation history:
+{session_history}
+
+Analyze the query and return a JSON object with these fields:
+
+- intent: one clear sentence describing what the user is trying to accomplish
+- sub_queries: a list of distinct questions within the query. If there is only one question, return a list with one item. Do NOT split a single question into multiple sub_queries.
+- complexity: "low" if this is a straightforward factual or definitional question (e.g. "what is the deductible?", "when does my policy renew?"). "high" if it requires multi-clause reasoning, comparing coverage options, interpreting exclusions, or troubleshooting an edge case.
+- needs_decomp: true only if there are 2 or more genuinely distinct sub_queries that should be answered independently. false otherwise.
+
+Examples:
+
+Query: "What is the maximum coverage amount under my policy?"
+→ intent: "Find the maximum coverage amount on the user's policy"
+→ sub_queries: ["What is the maximum coverage amount under my policy?"]
+→ complexity: "low"
+→ needs_decomp: false
+
+Query: "Does my policy cover water damage from a burst pipe, and how do I file a claim if it does?"
+→ intent: "Confirm water-damage coverage and learn the claim filing process"
+→ sub_queries: ["Does my policy cover water damage from a burst pipe?", "How do I file a claim for water damage?"]
+→ complexity: "high"
+→ needs_decomp: true
+
+Query: "What's the difference between comprehensive and collision coverage and which one do I have?"
+→ intent: "Understand coverage type difference and identify the user's current coverage"
+→ sub_queries: ["What is the difference between comprehensive and collision coverage?", "Which coverage type does the user currently have?"]
+→ complexity: "high"
+→ needs_decomp: true

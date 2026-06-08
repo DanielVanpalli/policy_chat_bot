@@ -1,0 +1,374 @@
+[page 1 | section_header | level 1]
+United India Insurance Company Limited
+############
+[page 1 | text]
+Corporate Identity Number: U93090TN1938GOI000108 Registered Office: 24 Whites Road, Chennai -600014 IRDAI REG NO.545
+############
+[page 1 | section_header | level 1]
+FAMILY MEDICARE POLICY
+############
+[page 1 | section_header | level 1]
+I. PREAMBLE
+############
+[page 1 | text]
+This Policy is a contract of insurance issued by UNITED INDIA INSURANCE COMPANY (hereinafter called the COMPANY) to the Proposer mentioned in the Schedule (hereinafter called the 'Insured') to cover the person(s) named in the schedule (hereinafter called t he 'Insured Persons'). The Policy is based on the statements and declaration provided in the Proposal Form by the Proposer and is subject to
+############
+[page 1 | list_item]
+the receipt of full premium,
+############
+[page 1 | list_item]
+disclosure to information norm including the information provided in the Proposal Form by the Insured on behalf of him/her-self and all persons to be Insured which is incorporated in the policy and is the basis of it; and
+############
+[page 1 | list_item]
+the terms, conditions and exclusions of this Policy.
+############
+[page 1 | section_header | level 1]
+II. OPERATIVE CLAUSE
+############
+[page 1 | text]
+If during the Policy Period the Insured Person(s) is required to be hospitalized for treatment of an Illness or Injury at a Hospital /Day Care Centre, following Medical Advice of a duly qualified Medical Practitioner, the Company shall indemnify Medically Necessary, Reasonable and Customary Medical Expenses towards the Coverage mentioned hereunder.
+############
+[page 1 | text]
+Provided further that, any amount payable under the Policy shall be subject to the terms of coverage (including any limits/sub limits), exclusions, conditions and definitions contained herein. Maximum liability of the Company under all such Claims during each Policy Year shall be the Sum Insured opted and specified in the Schedule.
+############
+[page 1 | section_header | level 1]
+III. COVER TYPE
+############
+[page 1 | text]
+The Policy provides cover on an Individual or Family Floater basis. A separate Sum Insured for each Insured Person, as specified in the Policy Schedule, is provided under Individual basis while under Family Floater basis, the Sum Insured limit is shared by the whole family of the Insured as specified in the Policy Schedule and Our total liability for the family cannot exceed the Sum Insured in a Policy period. The cover type basis shall be as specified in the Policy Schedule.
+############
+[page 1 | section_header | level 1]
+IV. DEFINITIONS
+############
+[page 1 | section_header | level 1]
+A. Standard Definitions
+############
+[page 1 | list_item]
+ACCIDENT is  a  sudden,  unforeseen  and  involuntary  event  caused  by  external,  visible  and  violent means.
+############
+[page 1 | list_item]
+ANY ONE ILLNESS will be deemed to mean continuous period of illness and it includes relapse within 45 days    from the date of last consultation with the Hospital / Nursing Home where treatment has been taken.
+############
+[page 1 | list_item]
+CASHLESS FACILITY means a facility extended by the Insurer or TPA on behalf of the Insurer to the Insured, where the payments for the costs of treatment undergone by the Insured in accordance with the policy terms and conditions, are directly made to the network provider by the Insurer to the extent pre-authorization is approved.
+############
+[page 1 | list_item]
+CONDITION PRECEDENT shall mean a policy term or condition upon which the Insurer's liability under the policy is conditional.
+############
+[page 1 | page_footer]
+Family Medicare Policy Wordings
+############
+[page 1 | page_footer]
+UIN: UIIHLIP22070V042122
+############
+[page 2 | section_header | level 1]
+United India Insurance Company Limited
+############
+[page 2 | text]
+Corporate Identity Number: U93090TN1938GOI000108
+############
+[page 2 | text]
+Registered Office: 24 Whites Road, Chennai -600014 IRDAI REG NO.545
+############
+[page 2 | list_item]
+CONGENITAL ANOMALY refers to a condition(s) which is present since birth, and which is abnormal with reference to form, structure or position.
+############
+[page 2 | list_item]
+Internal Congenital Anomaly: Which is not in the visible and accessible parts of the body.
+############
+[page 2 | list_item]
+External Congenital Anomaly: Which is in the visible and accessible parts of the body.
+############
+[page 2 | list_item]
+CO-PAYMENT means a cost sharing requirement under a health insurance policy that provides that the  Policyholder/Insured  will  bear  a  specified  percentage  of  the  admissible  claims  amount.  A  copayment does not reduce the Sum Insured.
+############
+[page 2 | list_item]
+DAY CARE CENTRE means any institution established for day care treatment of illness and/or injuries or  a  medical  set-up  within  a  hospital  and  which  has  been  registered  with  the  local  authorities, wherever applicable, and is under the supervision of a registered and qualified medical practitioner AND must comply with all minimum criteria as under:
+############
+[page 2 | list_item]
+Has qualified nursing staff under its employment
+############
+[page 2 | list_item]
+Has qualified Medical Practitioner(s) in charge
+############
+[page 2 | list_item]
+Has a fully equipped operation theatre of its own where surgical procedures are carried out-
+############
+[page 2 | list_item]
+Maintains daily records of patien ts and will make these accessible to the Insurance Company's authorized personnel.
+############
+[page 2 | list_item]
+DAY CARE TREATMENT means medical treatment, and/or surgical procedure which is:
+############
+[page 2 | list_item]
+undertaken  under  general  or  local  anaesthesia  in  a  hospital/day  care  centre  in  less  than twenty-four hours because of technological advancement, and
+############
+[page 2 | list_item]
+which would have otherwise required a hospitalisation of more than twenty-four hours.
+############
+[page 2 | text]
+Treatment normally taken on an out-patient basis is not included in the scope of this definition.
+############
+[page 2 | list_item]
+DEDUCTIBLE is  a  cost  sharing  requirement  under a Health Insurance Policy that provides that the Insurer will not be liable for a specified rupee amount in case of Indemnity policies and for a specified number of days/hours in case of hospital cash policies which will apply before any benefits are payable by the Insurer.  A deductible does not reduce the sum insured.
+############
+[page 2 | list_item]
+DENTAL TREATMENT means a treatment related to teeth or structures supporting teeth including examinations, fillings (where appropriate), crowns, extractions and surgery.
+############
+[page 2 | list_item]
+DISCLOSURE TO INFORMATION NORM The policy shall be void and all premium paid thereon shall be forfeited to the Company in the event of misrepresentation, mis-description or non-disclosure of any material fact
+############
+[page 2 | list_item]
+EMERGENCY  CARE Emergency  care  means  management  for  an  illness  or  injury  which  results  in symptoms  which  occur  suddenly  and  unexpectedly,  and  requires  immediate  care  by  a  medical practitioner to prevent death or serious long term impairment of the I nsured person's health
+############
+[page 2 | list_item]
+GRACE PERIOD means the specified period of  time  immediately  following  the premium  due  date during which a payment can be made to renew or continue a policy in force without loss of continuity benefits such as waiting periods and coverage of pre-existing diseases.  Coverage is not available for the period for which no premium is received.
+############
+[page 2 | list_item]
+HOSPITAL/NURSING  HOME means  any  institution  established  for  in-patient  care  and  day  care treatment  of  illness  and/or  injuries  and  which  has  been  registered  as  a  Hospital  with  the  local authorities under the Clinical establishments (Registration and Regulation) Act, 2010 or under the enactments  specified  under  the  Schedule  of  Section  56(1)  of  the  said  Act  OR  complies  with  all minimum criteria as under
+############
+[page 2 | list_item]
+-Has qualified nursing staff under its employment round the clock.
+############
+[page 2 | list_item]
+-Has at least 10 in-patient beds in towns having a population of less than 10 lacs and at least 15 in-patient beds in all other places;
+############
+[page 2 | list_item]
+-Has qualified Medical Practitioner(s) in charge round the clock;
+############
+[page 2 | list_item]
+-Has a fully equipped Operation Theatre of its own where surgical procedures are carried out;
+############
+[page 2 | page_footer]
+Family Medicare Policy Wordings
+############
+[page 2 | page_footer]
+UIN: UIIHLIP22070V042122
+############
+[page 2 | page_footer]
+2
+############
+[page 3 | section_header | level 1]
+United India Insurance Company Limited
+############
+[page 3 | text]
+Corporate Identity Number: U93090TN1938GOI000108 Registered Office: 24 Whites Road, Chennai -600014 IRDAI REG NO.545
+############
+[page 3 | list_item]
+-Maintains daily records of patients and makes these accessible to the insurance company's authorized personnel.
+############
+[page 3 | text]
+The term ' Hospital / Nursing Home ' shall not include an establishment which is a place of rest, a place for the aged, a place for drug-addicts or place for alcoholics, a hotel or a similar place.
+############
+[page 3 | text]
+For Ayurvedic treatment, hospitalisation expenses are admissible only when the treatment has been undergone in a hospital as defined in clause V.4 below.
+############
+[page 3 | list_item]
+HOSPITALISATION Means admission in  a  Hospital/Nursing  Home  for  a  minimum  period  of  24  Inpatient care consecutive hours except for the standard day care procedures/treatments as defined above, where such admission could be for a period of less than 24 consecutive hours.
+############
+[page 3 | text]
+Note:  Procedures/treatments usually done in outpatient department are not payable under the policy even if admitted/converted as an in-patient in the hospital for more than 24 hours.
+############
+[page 3 | list_item]
+ILLNESS means a sickness or a disease or pathological condition leading to the impairment of normal physiological function which manifests itself during the policy period and requires medical treatment.
+############
+[page 3 | list_item]
+(a) Acute condition - Acute condition is a disease, illness or injury that is likely to respond quickly to treatment which aims to return the person to his or her state of health immediately before suffering the disease/ illness/ injury which leads to full recovery
+############
+[page 3 | list_item]
+(b) Chronic condition - A chronic condition is defined as a disease, illness, or injury that has one or more of the following characteristics:
+############
+[page 3 | list_item]
+It needs ongoing or long-term monitoring through consultations, examinations, check-ups, and /or tests
+############
+[page 3 | list_item]
+It needs ongoing or long-term control or relief of symptoms
+############
+[page 3 | list_item]
+It requires rehabilitation for the patient or for the patient to be specially trained to cope with it
+############
+[page 3 | list_item]
+It continues indefinitely
+############
+[page 3 | list_item]
+It recurs or is likely to recur
+############
+[page 3 | list_item]
+INJURY means accidental physical bodily harm excluding illness or disease solely and directly caused by  external,  violent  and  visible  and  evident  means  which  is  verified  and  certified  by  a  Medical Practitioner.
+############
+[page 3 | list_item]
+IN-PATIENT CARE means treatment for which the Insured Person has to stay in a hospital for   more than 24 hours for a covered event.
+############
+[page 3 | list_item]
+INTENSIVE CARE UNIT means an identified section, ward or wing of a hospital which is under the constant supervision of a dedicated Medical Practitioner(s), and which is specially equipped for the continuous monitoring and treatment of patients who are in a critical condition, or require life support facilities and where the level of care and supervision is considerably more sophisticated and intensive than in the ordinary and other wards.
+############
+[page 3 | list_item]
+INTENSIVE CARE UNIT (ICU) CHARGES means the amount charged by a Hospital towards ICU expenses which shall include the expenses for ICU bed, general medical support services provided to any ICU patient including monitoring devices, critical care nursing and intensivist charges.
+############
+[page 3 | section_header | level 1]
+21. MATERNITY EXPENSES means;
+############
+[page 3 | list_item]
+medical  treatment  expenses  traceable  to  childbirth  (including  complicated  deliveries  and caesarean sections incurred during hospitalization);
+############
+[page 3 | list_item]
+expenses towards lawful medical termination of pregnancy during the policy period.
+############
+[page 3 | list_item]
+MEDICAL ADVICE means any consultation or advice from a Medical Practitioner including the issue of any prescription or repeat prescription.
+############
+[page 3 | list_item]
+MEDICAL  EXPENSES means  those  expenses  that  an  Insured  Person  has  necessarily  and  actually incurred  for  medical  treatment  on  account  of  illness  or  Accident  on  the  advice  of  a  Medical Practitioner, as long as these are no more than would have been payable if the Insured Person had not been insured and no more than other hospitals or doctors in the same locality would have charged for the same medical treatment.
+############
+[page 3 | page_footer]
+Family Medicare Policy Wordings
+############
+[page 3 | page_footer]
+UIN: UIIHLIP22070V042122
+############
+[page 3 | page_footer]
+3
+############
+[page 4 | section_header | level 1]
+United India Insurance Company Limited
+############
+[page 4 | text]
+Corporate Identity Number: U93090TN1938GOI000108 Registered Office: 24 Whites Road, Chennai -600014 IRDAI REG NO.545
+############
+[page 4 | list_item]
+MEDICALLY NECESSARY TREATMENT is defined as any treatment, tests, medication, or stay in hospital or part of a stay in hospital which is required for the medical management of the illness or injury suffered by the Insured; Must not exceed the level of care necessary to provide safe, adequate and appropriate medical care in scope, duration or intensity; Must have been prescribed by a Medical Practitioner; Must conform to the professional standards widely accepted in international medical practice or by the medical community in India.
+############
+[page 4 | list_item]
+MEDICAL PRACTITIONER is a person who holds a valid registration from the Medical Council of any State of India or Medical Council of India or Council for Indian Medicine or for Homeopathy set up by the Government of India or a State Government and is thereby entitled to practice medicine within its jurisdiction; and is acting within the scope and jurisdiction of license. The term Medical Practitioner would include Physician, Specialist and Surgeon.  The Registered Medical Practitioner should not be the Insured or any member of his family including parents and in-laws.
+############
+[page 4 | list_item]
+MIGRATION means,  the  right  accorded  to  health  insurance  policyholders  (including  all  members under family cover and members of group health insurance policy), to transfer the credit gained for pre-existing conditions and time bound exclusions, with the same Insurer.
+############
+[page 4 | list_item]
+NETWORK  PROVIDER means  the  hospital/nursing  home  or  health  care  providers  enlisted  by  an Insurer or by a TPA and Insurer together to provide medical services to an Insured on payment by a cashless facility.  The list of Network Hospitals is maintained by and available with the TPA and the same is subject to amendment from time to time.
+############
+[page 4 | list_item]
+PPN-Preferred  Provider  Network means a network of  hospitals  which  have  agreed  to  a  cashless packaged pricing for certain procedures for the Insured Person. Updated list of network provider/PPN is available on website of the company (https://uiic.co.in/en/tpa-ppn-network-hospitals) and website of the TPA mentioned in the schedule and is subject to amendment from time to time.
+############
+[page 4 | list_item]
+NEW BORN BABY means baby born during the Policy Period and is aged upto 90 days.
+############
+[page 4 | list_item]
+NON-NETWORK HOSPITALS means any hospital, day care centre or other provider that is not part of the network.
+############
+[page 4 | list_item]
+NOTIFICATION OF CLAIM is  the process of notifying a claim to the Insurer or TPA within specified timelines through any of the recognised modes of communication.
+############
+[page 4 | list_item]
+PORTABILITY means, the right accorded to individual health insurance policyholders (including all members under family cover), to transfer the credit gained for pre-existing conditions and time bound exclusions, from one Insurer to another Insurer.
+############
+[page 4 | list_item]
+PRE-EXISTING DISEASE means any condition, ailment, injury or disease:
+############
+[page 4 | list_item]
+That is/are diagnosed by a physician within 48 months prior to the effective date of the policy issued by the Insurer or its reinstatement or
+############
+[page 4 | list_item]
+For which medical advice or treatment was recommended by, or received from, a physician within 48 months prior to the effective date of the policy issued by the Insurer or its reinstatement
+############
+[page 4 | section_header | level 1]
+33. PRE -HOSPITALISATION MEDICAL EXPENSES
+############
+[page 4 | list_item]
+Relevant medical expenses incurred immediately 30 days before the Insured Person is hospitalised provided that:
+############
+[page 4 | list_item]
+Such  Medical  expenses  are  inc urred  for  the  same  condition  for  which  the  Insured  Person's Hospitalisation was required; and
+############
+[page 4 | list_item]
+The In-patient Hospitalisation claim for such Hospitalisation is admissible by us.
+############
+[page 4 | section_header | level 1]
+34. POST-HOSPITALISATION MEDICAL EXPENSES
+############
+[page 4 | text]
+Relevant medical expenses incurred immediately 60 days after the Insured Person is discharged from the hospital provided that;
+############
+[page 4 | list_item]
+Such  Medical  expenses  are  incurred  for  the  same  condition  for  which  the  Insured  Person's Hospitalisation was required; and
+############
+[page 4 | list_item]
+The In-patient Hospitalisation claim for such Hospitalisation is admissible by us.
+############
+[page 4 | page_footer]
+Family Medicare Policy Wordings UIN: UIIHLIP22070V042122
+############
+[page 4 | page_footer]
+4
+############
+[page 5 | section_header | level 1]
+United India Insurance Company Limited
+############
+[page 5 | text]
+Corporate Identity Number: U93090TN1938GOI000108 Registered Office: 24 Whites Road, Chennai -600014 IRDAI REG NO.545
+############
+[page 5 | list_item]
+QUALIFIED NURSE means a person who holds a valid registration from the Nursing Council of India or the Nursing Council of any State in India.
+############
+[page 5 | list_item]
+REASONABLE AND CUSTOMARY CHARGES mean the charges for services or supplies, which are the standard  charges  for  the  specific  provider  and  consistent  with  the  prevailing  charges  in  the geographical  area  for  identical  or  similar  services,  taking  into  account  the  nature  of  illness/injury involved.
+############
+[page 5 | list_item]
+RENEWAL defines the terms on which the contract of insurance can be renewed on mutual consent with a provision of grace period for treating the renewal continuous for the purpose of all waiting periods.
+############
+[page 5 | list_item]
+ROOM RENT shall mean the amount charged by a hospital for the Occupancy of a bed on per day (24 hours) basis and shall include associated medical expenses.
+############
+[page 5 | list_item]
+SURGERY  OR  SURGICAL  PROCEDURE means  manual  and/or  operative  procedure(s)  required  for treatment of an illness or injury, correction of deformities and defects, diagnosis and cure of diseases, relief of suffering or prolongation of life, performed in a Hospital or Day Care Centre by a Medical Practitioner.
+############
+[page 5 | section_header | level 1]
+B. Specific Definitions
+############
+[page 5 | list_item]
+AGE means age of the Insured person on last birthday as on date of commencement of the Policy.
+############
+[page 5 | list_item]
+AIDS means Acquired Immune Deficiency Syndrome, a condition characterised by a combination of signs and symptoms, caused by Human Immunodeficiency Virus (HIV), which attacks and weakens the body's immune system making the HIV -positive person susceptible to life threatening conditions or other conditions, as may be specified from time to time.
+############
+[page 5 | list_item]
+ASSOCIATED MEDICAL EXPENSES means hospitalisation related expenses on Surgeon, Anaesthetist, Medical Practitioner, Consultants and Specialist Fees whether paid directly to the treating doctor / surgeon or to the hospital; Anaesthetics, blood, oxygen, operation theatre charges, surgical appliances and such other similar expenses with the exception of:
+############
+[page 5 | list_item]
+cost of pharmacy and consumables medicines
+############
+[page 5 | list_item]
+cost of implants/medical devices
+############
+[page 5 | list_item]
+cost of diagnostics
+############
+[page 5 | text]
+The  scope  of  this  definition  is  limited  to  admissible  claims  where  a  proportionate  deduction  is applicable, as per Note a to Section V.1.1.
+############
+[page 5 | list_item]
+AYUSH  Treatment refers  to  hospitalisation  treatments  given  Ayurveda,  Unani  and  Homeopathy systems (covered under the Policy).
+############
+[page 5 | list_item]
+BREAK IN POLICY means the period of gap that occurs at the end of the existing policy term, when the premium due for renewal on a given policy is not paid on or before the premium renewal date or within 30 days thereof.
+############
+[page 5 | list_item]
+CANCELLATION defines the terms on which the policy contract can be terminated either by the Insurer or the Insured person by giving sufficient notice to other which is not lower than a period of fifteen days.
+############
+[page 5 | list_item]
+CONTINUOUS COVERAGE means uninterrupted coverage of the Insured Person under the Health Insurance Policy from the date of inception of policy for the first time as mentioned in the policy schedule. However for the purpose of applying waiting periods, the break in insurance period for which the premium was not received shall be excluded from it.
+############
+[page 5 | list_item]
+INSURED PERSON means person(s) named in the schedule of the Policy.
+############
+[page 5 | list_item]
+PERIOD OF INSURANCE means the period for which this policy is taken and is in force as specified in the Schedule.
+############
+[page 5 | list_item]
+POLICY means  these  Policy  wordings,  the  Policy  Schedule  and  any  applicable  endorsements  or extensions attaching to or forming part thereof. The Policy contains details of the extent of cover
+############
+[page 5 | page_footer]
+Family Medicare Policy Wordings UIN: UIIHLIP22070V042122
+############
+[page 5 | page_footer]
+5
